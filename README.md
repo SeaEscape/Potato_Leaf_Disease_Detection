@@ -24,7 +24,7 @@ The dataset consists of labeled images of potato leaves categorized into healthy
 1. Clone the repository:
    ```bash
    git clone https://github.com/SeaEscape/Potato_Leaf_Disease_Detection.git
-   cd potato-leaf-disease-detection
+   cd Potato-Leaf-Disease-Detection
    ```
 2. Install dependencies:
    ```bash
